@@ -3,27 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SolvingExpression", "02.SolvingExpression\2.SolvingExpression.csproj", "{65F9A1D6-AD08-45C8-A60A-B7D5E9B26E29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SolvingExpression", "02.SolvingExpression\02.SolvingExpression.csproj", "{65F9A1D6-AD08-45C8-A60A-B7D5E9B26E29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.RectangleArea", "05.RectangleArea\5.RectangleArea.csproj", "{AC246CAA-82FB-4FC2-855E-73C7AE82A03F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RectangleArea", "05.RectangleArea\05.RectangleArea.csproj", "{AC246CAA-82FB-4FC2-855E-73C7AE82A03F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.SquareStars", "06.SquareStars\6.SquareStars.csproj", "{1B39ABFB-6D4D-46C7-9F0C-0CA987E9CDED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SquareStars", "06.SquareStars\06.SquareStars.csproj", "{1B39ABFB-6D4D-46C7-9F0C-0CA987E9CDED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumator", "Sumator\Sumator.csproj", "{765048D2-BB72-4F61-93AB-22E36DD93029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Triangleof55Stars", "04.Triangleof55Stars\04.Triangleof55Stars.csproj", "{0B29E78A-60A6-4774-A4C6-DD7D610ECCEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{F8C31387-5F5B-416C-B911-0810697AD917}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.DeclareVariables", "07.DeclareVariables\07.DeclareVariables.csproj", "{9A5EDC05-AE5C-409A-ADD6-691E964E6BDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Triangleof55Stars", "04.Triangleof55Stars\4.Triangleof55Stars.csproj", "{0B29E78A-60A6-4774-A4C6-DD7D610ECCEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Nums1to20", "03.Nums1to20\03.Nums1to20.csproj", "{CE85E0E2-2328-4853-8B7E-E12317764854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.DeclareVariables", "07.DeclareVariables\7.DeclareVariables.csproj", "{9A5EDC05-AE5C-409A-ADD6-691E964E6BDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloCSharp", "01.HelloCSharp\01.HelloCSharp.csproj", "{DCCB2913-88D4-437B-98D0-896AD45DF666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Nums1to20", "03.Nums1to20\3.Nums1to20.csproj", "{CE85E0E2-2328-4853-8B7E-E12317764854}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CopyrightTriangle", "08.CopyrightTriangle\08.CopyrightTriangle.csproj", "{E5E664A7-8897-4E87-8553-512CD71832A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HelloCSharp", "01.HelloCSharp\1.HelloCSharp.csproj", "{DCCB2913-88D4-437B-98D0-896AD45DF666}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddYearsToCurrentAge", "AddYearsToCurrentAge\AddYearsToCurrentAge.csproj", "{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "10.Calculator\Calculator.csproj", "{03A67BF1-33B1-4272-AB38-C32D9F1DD5E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.AddYearsToCurrentAge", "09.AddYearsToCurrentAge\09.AddYearsToCurrentAge.csproj", "{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,14 +39,6 @@ Global
 		{1B39ABFB-6D4D-46C7-9F0C-0CA987E9CDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B39ABFB-6D4D-46C7-9F0C-0CA987E9CDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B39ABFB-6D4D-46C7-9F0C-0CA987E9CDED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{765048D2-BB72-4F61-93AB-22E36DD93029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{765048D2-BB72-4F61-93AB-22E36DD93029}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{765048D2-BB72-4F61-93AB-22E36DD93029}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{765048D2-BB72-4F61-93AB-22E36DD93029}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8C31387-5F5B-416C-B911-0810697AD917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8C31387-5F5B-416C-B911-0810697AD917}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8C31387-5F5B-416C-B911-0810697AD917}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8C31387-5F5B-416C-B911-0810697AD917}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0B29E78A-60A6-4774-A4C6-DD7D610ECCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0B29E78A-60A6-4774-A4C6-DD7D610ECCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B29E78A-60A6-4774-A4C6-DD7D610ECCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -67,14 +55,14 @@ Global
 		{DCCB2913-88D4-437B-98D0-896AD45DF666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCB2913-88D4-437B-98D0-896AD45DF666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCB2913-88D4-437B-98D0-896AD45DF666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E664A7-8897-4E87-8553-512CD71832A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E664A7-8897-4E87-8553-512CD71832A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E664A7-8897-4E87-8553-512CD71832A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E664A7-8897-4E87-8553-512CD71832A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EFB4D4B-0035-4108-B45E-C1E3B20A050B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{03A67BF1-33B1-4272-AB38-C32D9F1DD5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03A67BF1-33B1-4272-AB38-C32D9F1DD5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03A67BF1-33B1-4272-AB38-C32D9F1DD5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03A67BF1-33B1-4272-AB38-C32D9F1DD5E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
